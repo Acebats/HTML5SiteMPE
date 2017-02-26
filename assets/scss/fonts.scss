@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('BebasNeueRegular.eot');
+	src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+		url('BebasNeueRegular.woff2') format('woff2'),
+		url('BebasNeueRegular.woff') format('woff'),
+		url('BebasNeueRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Bebas Neue';
+	src: url('BebasNeueBold.eot');
+	src: url('BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+		url('BebasNeueBold.woff2') format('woff2'),
+		url('BebasNeueBold.woff') format('woff'),
+		url('BebasNeueBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('Montserrat-Medium.eot');
+	src: url('Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+		url('Montserrat-Medium.woff2') format('woff2'),
+		url('Montserrat-Medium.woff') format('woff'),
+		url('Montserrat-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}

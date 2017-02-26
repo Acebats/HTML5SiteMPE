@@ -1,0 +1,4 @@
+// This is the container that keeps all of your content withing a set width, at the moment it is set to 1200 and it is ideal to keep it to this width as it is the width i use at work.
+.container {
+  @include grid-row();
+}

@@ -1,0 +1,23 @@
+.header {
+  .navigation {
+    background-color: #fff;
+  }
+  .nav {
+    @include grid-column(12);
+    list-style: none;
+    margin: rem-calc(15 0 15 0);
+    
+    li {
+      display: inline-block;
+      color: #000;
+      font-family: $bebas;
+      font-weight: bold;
+      font-size: rem-calc(35);
+      margin-right: rem-calc(15);
+      text-align: center;
+      a {
+        color: inherit;
+      }
+    }
+  }
+}
